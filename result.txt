@@ -1,0 +1,5 @@
+avg bubble sort runtime: 92530.33ms
+avg selection sort runtime: 44386.40ms
+avg insert sort runtime: 24203.11ms
+avg merge sort runtime: 43.22ms
+avg quick sort runtime: 42.76ms
