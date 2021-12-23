@@ -31,7 +31,7 @@ int main(){
         arr1[i - 1] = i;
     }
 
-        printf("generating random array (size: %d)...\n", SIZE);
+    printf("generating random array (size: %d)...\n", SIZE);
     shuffle(arr1, SIZE);
     printf("complete!\n\n");
 
